@@ -1,1 +1,2 @@
-This is the third file in development
+This is the third file in development.
+Directly added to github
